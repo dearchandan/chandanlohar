@@ -1,0 +1,14 @@
+<script src=" {{ asset('assets/js/jquery.min.js') }} "></script>
+<script src=" {{ asset('assets/js/jquery.validate.min.js') }}"></script>
+<script src=" {{ asset('assets/js/bootstrap.js') }} "></script>
+<script src=" {{ asset('assets/js/swiper.js') }} "></script>
+<script src=" {{ asset('assets/js/splitting.js') }} "></script>
+<script src=" {{ asset('assets/js/jarallax.min.js') }} "></script>
+<script src=" {{ asset('assets/js/magnific-popup.js') }} "></script>
+<script src=" {{ asset('assets/js/imagesloaded.pkgd.js') }} "></script>
+<script src=" {{ asset('assets/js/isotope.pkgd.js') }} "></script>
+<script src=" {{ asset('assets/js/jquery.scrolla.js') }} "></script>
+<script src=" {{ asset('assets/js/skrollr.js') }} "></script>
+<script src=" {{ asset('assets/js/jquery.cookie.js') }} "></script>
+<script src=" {{ asset('assets/js/typed.js') }} "></script>
+<script src=" {{ asset('assets/js/common.js') }} "></script>

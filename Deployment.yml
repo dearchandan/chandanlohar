@@ -1,0 +1,5 @@
+spec:
+  containers:
+  - name: laravel-app
+    image: nginx-laravel-image:latest
+    imagePullPolicy: Never
